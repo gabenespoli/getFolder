@@ -22,10 +22,10 @@ function lss()
 `gf [keyword] folders`
 
 ## Input
-`keyword` = A keyword defined in the config file.  
-`folders` = Names of folders and subfolders to add to the output.
+- `keyword` = A keyword defined in the config file.  
+- `folders` = Names of folders and subfolders to add to the output.
 
 ## Examples
-`gf path to dir` returns `path/to/dir`  
-`lss keyword` lists contents of `path/defined/in/config/file`  
-`cdd keyword then subfolders` changes the current directory to `path/defined/in/config/file/then/subfolders`
+- `gf path to dir` returns `path/to/dir`  
+- `lss keyword` lists contents of `path/defined/in/config/file`  
+- `cdd keyword then subfolders` changes the current directory to `path/defined/in/config/file/then/subfolders`
