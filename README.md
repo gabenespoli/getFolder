@@ -1,5 +1,5 @@
 # getFolder
-A python script that returns a path using keywords. Can be used to cd and ls.
+Get folder paths using user-defined keywords. Can be used to cd and ls in terminal.
 
 ## Setup
 - Create a config file like the example included in this repo (config.txt). The config file lists keywords and associated paths. One keyword/path per line, separated by a comma.
