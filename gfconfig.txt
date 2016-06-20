@@ -1,0 +1,3 @@
+keyword,    /Users/username/Documents/keyword_folder
+spaces,     /Users/username/Documents/Folder Name with a Space
+etc,        /Users/username/Add as many/as you want
